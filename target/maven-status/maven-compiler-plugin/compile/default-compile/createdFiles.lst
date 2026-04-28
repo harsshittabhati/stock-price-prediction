@@ -1,9 +1,0 @@
-com\example\stockpriceprediction\service\CsvService.class
-com\example\stockpriceprediction\StockPricePredictionApplication.class
-com\example\stockpriceprediction\controller\StockWebController.class
-com\example\stockpriceprediction\service\StockDataService.class
-com\example\stockpriceprediction\config\WebConfig.class
-com\example\stockpriceprediction\controller\StockApiController.class
-com\example\stockpriceprediction\service\StockApiService.class
-com\example\stockpriceprediction\repository\StockDataRepository.class
-com\example\stockpriceprediction\model\StockData.class

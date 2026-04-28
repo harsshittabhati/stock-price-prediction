@@ -1,0 +1,16 @@
+# Maven
+target/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Application properties (contains API key!)
+src/main/resources/application.properties
